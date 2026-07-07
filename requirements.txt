@@ -1,0 +1,10 @@
+requests
+pandas
+beautifulsoup4
+urllib3
+osmnx
+geopandas
+shapely
+networkx
+numpy
+pyproj

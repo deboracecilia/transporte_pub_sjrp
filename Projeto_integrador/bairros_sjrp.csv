@@ -1,0 +1,487 @@
+﻿id_bairro;bairro;cidade;endereco;longitude;latitude
+B001;Areia Branca;São José do Rio Preto;Areia Branca, São José do Rio Preto, SP, Brasil;-49.393158;-20.7102182
+B002;Auferville 5;São José do Rio Preto;Auferville 5, São José do Rio Preto, SP, Brasil;-49.3359196;-20.7465827
+B003;Augusto da Silva;São José do Rio Preto;Augusto da Silva, São José do Rio Preto, SP, Brasil;-49.3319392;-20.7531693
+B004;Azulão;São José do Rio Preto;Azulão, São José do Rio Preto, SP, Brasil;-49.3720087;-20.7665247
+B005;Bio City Club Residencial;São José do Rio Preto;Bio City Club Residencial, São José do Rio Preto, SP, Brasil;-49.3322611;-20.7875525
+B006;Boa Vista;São José do Rio Preto;Boa Vista, São José do Rio Preto, SP, Brasil;-49.3853446;-20.8024351
+B007;Bom Jardim;São José do Rio Preto;Bom Jardim, São José do Rio Preto, SP, Brasil;-49.3825901;-20.8315896
+B008;Bosque da Felicidade;São José do Rio Preto;Bosque da Felicidade, São José do Rio Preto, SP, Brasil;-49.359565;-20.7750041
+B009;Bosque da Saúde;São José do Rio Preto;Bosque da Saúde, São José do Rio Preto, SP, Brasil;-49.3982201;-20.8249479
+B010;Brejo Alegre;São José do Rio Preto;Brejo Alegre, São José do Rio Preto, SP, Brasil;-49.3409124;-20.8348162
+B011;Cavalari III;São José do Rio Preto;Cavalari III, São José do Rio Preto, SP, Brasil;-49.3551451;-20.7589563
+B012;Centro;São José do Rio Preto;Centro, São José do Rio Preto, SP, Brasil;-49.3788484;-20.8108488
+B013;Centro Empresarial BR 153;São José do Rio Preto;Centro Empresarial BR 153, São José do Rio Preto, SP, Brasil;-49.3320465;-20.7338702
+B014;Centro Industrial Pascutti;São José do Rio Preto;Centro Industrial Pascutti, São José do Rio Preto, SP, Brasil;-49.3364775;-20.8571275
+B015;Chácara Bela Vista 1ª parte;São José do Rio Preto;Chácara Bela Vista 1ª parte, São José do Rio Preto, SP, Brasil;-49.3195794;-20.8669289
+B016;Chácara Bela Vista 2ª parte;São José do Rio Preto;Chácara Bela Vista 2ª parte, São José do Rio Preto, SP, Brasil;-49.3172238;-20.8711216
+B017;Chácara Municipal;São José do Rio Preto;Chácara Municipal, São José do Rio Preto, SP, Brasil;-49.3953504;-20.830656
+B018;Chácara Santa Rita;São José do Rio Preto;Chácara Santa Rita, São José do Rio Preto, SP, Brasil;-49.3328297;-20.761115
+B019;Chácaras São Pedro 3;São José do Rio Preto;Chácaras São Pedro 3, São José do Rio Preto, SP, Brasil;-49.3957382;-20.7402266
+B020;Chácaras Tranquilidade;São José do Rio Preto;Chácaras Tranquilidade, São José do Rio Preto, SP, Brasil;-49.3849397;-20.7796533
+B021;Chácaras de Recreio Felicidade;São José do Rio Preto;Chácaras de Recreio Felicidade, São José do Rio Preto, SP, Brasil;-49.34623;-20.7490408
+B022;Chácaras de Recreio Nossa Senhora do Líbano;São José do Rio Preto;Chácaras de Recreio Nossa Senhora do Líbano, São José do Rio Preto, SP, Brasil;-49.3185711;-20.7477867
+B023;Chácaras de Recreio Terras de São José;São José do Rio Preto;Chácaras de Recreio Terras de São José, São José do Rio Preto, SP, Brasil;-49.3180668;-20.7415058
+B024;Cidade Nova;São José do Rio Preto;Cidade Nova, São José do Rio Preto, SP, Brasil;-49.384532;-20.8369617
+B025;Complexo Rios di Itália;São José do Rio Preto;Complexo Rios di Itália, São José do Rio Preto, SP, Brasil;-49.3350291;-20.7961583
+B026;Condomínio Belvedere;São José do Rio Preto;Condomínio Belvedere, São José do Rio Preto, SP, Brasil;-49.3463154;-20.7785015
+B027;Condomínio Eco Village I;São José do Rio Preto;Condomínio Eco Village I, São José do Rio Preto, SP, Brasil;-49.41370493241652;-20.860438125387386
+B028;Condomínio Empresarial e Industrial Vale dos Cedros;São José do Rio Preto;Condomínio Empresarial e Industrial Vale dos Cedros, São José do Rio Preto, SP, Brasil;-49.3067265;-20.89067
+B029;Condomínio Garden Village;São José do Rio Preto;Condomínio Garden Village, São José do Rio Preto, SP, Brasil;-49.3488089;-20.776577
+B030;Condomínio Garden Village II;São José do Rio Preto;Condomínio Garden Village II, São José do Rio Preto, SP, Brasil;-49.3503835;-20.7738313
+B031;Condomínio Jardim das Acácias;São José do Rio Preto;Condomínio Jardim das Acácias, São José do Rio Preto, SP, Brasil;-49.3710132;-20.766964
+B032;Condomínio Jardins de Athenas;São José do Rio Preto;Condomínio Jardins de Athenas, São José do Rio Preto, SP, Brasil;-49.3452229;-20.7805827
+B033;Condomínio Jardins de Barcelona;São José do Rio Preto;Condomínio Jardins de Barcelona, São José do Rio Preto, SP, Brasil;-49.3466371;-20.7804878
+B034;Condomínio Las Palmas;São José do Rio Preto;Condomínio Las Palmas, São José do Rio Preto, SP, Brasil;-49.4060487;-20.8285487
+B035;Condomínio Parque da Liberdade;São José do Rio Preto;Condomínio Parque da Liberdade, São José do Rio Preto, SP, Brasil;-49.3310988;-20.7732356
+B036;Condomínio Parque da Liberdade II;São José do Rio Preto;Condomínio Parque da Liberdade II, São José do Rio Preto, SP, Brasil;-49.334018;-20.7705807
+B037;Condomínio Parque da Liberdade III;São José do Rio Preto;Condomínio Parque da Liberdade III, São José do Rio Preto, SP, Brasil;-49.3325345;-20.7682539
+B038;Condomínio Parque da Liberdade IV;São José do Rio Preto;Condomínio Parque da Liberdade IV, São José do Rio Preto, SP, Brasil;-49.3308932;-20.7660758
+B039;Condomínio Parque da Liberdade V;São José do Rio Preto;Condomínio Parque da Liberdade V, São José do Rio Preto, SP, Brasil;-49.3266322;-20.7694919
+B040;Condomínio Parque da Liberdade VI;São José do Rio Preto;Condomínio Parque da Liberdade VI, São José do Rio Preto, SP, Brasil;-49.329041;-20.7716397
+B041;Condomínio Praças Golfe;São José do Rio Preto;Condomínio Praças Golfe, São José do Rio Preto, SP, Brasil;-49.4190306;-20.842459
+B042;Condomínio Quinta do Golfe;São José do Rio Preto;Condomínio Quinta do Golfe, São José do Rio Preto, SP, Brasil;-49.4210455;-20.8511892
+B043;Condomínio Residencial Damha;São José do Rio Preto;Condomínio Residencial Damha, São José do Rio Preto, SP, Brasil;-49.344319;-20.8126031
+B044;Condomínio Residencial Damha II;São José do Rio Preto;Condomínio Residencial Damha II, São José do Rio Preto, SP, Brasil;-49.3422932;-20.8189668
+B045;Condomínio Residencial Damha III;São José do Rio Preto;Condomínio Residencial Damha III, São José do Rio Preto, SP, Brasil;-49.3342685;-20.8159759
+B046;Condomínio Residencial Damha IV;São José do Rio Preto;Condomínio Residencial Damha IV, São José do Rio Preto, SP, Brasil;-49.3362031;-20.821898
+B047;Condomínio Residencial Damha V;São José do Rio Preto;Condomínio Residencial Damha V, São José do Rio Preto, SP, Brasil;-49.3345209;-20.8117071
+B048;Condomínio Residencial Damha VI;São José do Rio Preto;Condomínio Residencial Damha VI, São José do Rio Preto, SP, Brasil;-49.3259876;-20.8088959
+B049;Condomínio Residencial Gaivota I;São José do Rio Preto;Condomínio Residencial Gaivota I, São José do Rio Preto, SP, Brasil;-49.3391316;-20.8034555
+B050;Condomínio Residencial Gaivota II;São José do Rio Preto;Condomínio Residencial Gaivota II, São José do Rio Preto, SP, Brasil;-49.3369727;-20.8084806
+B051;Condomínio San Fernando Valley;São José do Rio Preto;Condomínio San Fernando Valley, São José do Rio Preto, SP, Brasil;-49.4300223;-20.8835331
+B052;Condomínio Santa Apolônia;São José do Rio Preto;Condomínio Santa Apolônia, São José do Rio Preto, SP, Brasil;-49.3582089;-20.9223331
+B053;Condomínio São Luís - Ipiguá;São José do Rio Preto;Condomínio São Luís - Ipiguá, São José do Rio Preto, SP, Brasil;-49.3834806;-20.7313115
+B054;Condomínio Village Damha;São José do Rio Preto;Condomínio Village Damha, São José do Rio Preto, SP, Brasil;-49.3402947;-20.7801905
+B055;Condomínio Village Damha II;São José do Rio Preto;Condomínio Village Damha II, São José do Rio Preto, SP, Brasil;-49.3442069;-20.7757008
+B056;Condomínio Village La Montagne;São José do Rio Preto;Condomínio Village La Montagne, São José do Rio Preto, SP, Brasil;-49.40663698385552;-20.863354302722144
+B057;Condomínio Vitória Régia;São José do Rio Preto;Condomínio Vitória Régia, São José do Rio Preto, SP, Brasil;-49.3715656;-20.7666673
+B058;Conjunto Habitacional Cristo Rei;São José do Rio Preto;Conjunto Habitacional Cristo Rei, São José do Rio Preto, SP, Brasil;-49.3498442;-20.8359664
+B059;Conjunto Habitacional Guiomar Assad Calil (CAIC);São José do Rio Preto;Conjunto Habitacional Guiomar Assad Calil (CAIC), São José do Rio Preto, SP, Brasil;-49.3533893;-20.827568
+B060;Conjunto Habitacional Jardim Belo Horizonte;São José do Rio Preto;Conjunto Habitacional Jardim Belo Horizonte, São José do Rio Preto, SP, Brasil;-49.4212997;-20.7951353
+B061;Conjunto Habitacional S.J.do Rio Preto I;São José do Rio Preto;Conjunto Habitacional S.J.do Rio Preto I, São José do Rio Preto, SP, Brasil;-49.3625749;-20.7615494
+B062;"Conjunto Habitacional São José do Rio Preto ""G""";São José do Rio Preto;"Conjunto Habitacional São José do Rio Preto ""G"", São José do Rio Preto, SP, Brasil";-49.3789177;-20.7596817
+B063;"Conjunto Habitacional São José do Rio Preto ""J""";São José do Rio Preto;"Conjunto Habitacional São José do Rio Preto ""J"", São José do Rio Preto, SP, Brasil";-49.4346282;-20.7843452
+B064;"Conjunto Habitacional São José do Rio Preto ""O""";São José do Rio Preto;"Conjunto Habitacional São José do Rio Preto ""O"", São José do Rio Preto, SP, Brasil";-49.2937124;-20.7046885
+B065;Damha Galleria;São José do Rio Preto;Damha Galleria, São José do Rio Preto, SP, Brasil;-49.342908;-20.8235502
+B066;Distrito Industrial;São José do Rio Preto;Distrito Industrial, São José do Rio Preto, SP, Brasil;-49.4229388;-20.8154979
+B067;Distrito Industrial Carlos Arnaldo;São José do Rio Preto;Distrito Industrial Carlos Arnaldo, São José do Rio Preto, SP, Brasil;-49.3423901;-20.7290833
+B068;Distrito Industrial Ulysses Guimarães;São José do Rio Preto;Distrito Industrial Ulysses Guimarães, São José do Rio Preto, SP, Brasil;-49.4231323;-20.8276194
+B069;Ecivitas Amazonas;São José do Rio Preto;Ecivitas Amazonas, São José do Rio Preto, SP, Brasil;-49.3169832;-20.8091364
+B070;Ecivitas Lumière 1;São José do Rio Preto;Ecivitas Lumière 1, São José do Rio Preto, SP, Brasil;-49.3200517;-20.8153342
+B071;Ecivitas Lumière 2;São José do Rio Preto;Ecivitas Lumière 2, São José do Rio Preto, SP, Brasil;-49.3195367;-20.8074716
+B072;Eco Parque Empresarial Norte;São José do Rio Preto;Eco Parque Empresarial Norte, São José do Rio Preto, SP, Brasil;-49.4413305;-20.7253662
+B073;Eldorado;São José do Rio Preto;Eldorado, São José do Rio Preto, SP, Brasil;-49.4004559;-20.78816
+B074;Empresarial Spotti;São José do Rio Preto;Empresarial Spotti, São José do Rio Preto, SP, Brasil;-49.3329746;-20.859679
+B075;Eparque Mirage;São José do Rio Preto;Eparque Mirage, São José do Rio Preto, SP, Brasil;-49.3985438;-20.853468
+B076;Eparque Rio Preto Leste;São José do Rio Preto;Eparque Rio Preto Leste, São José do Rio Preto, SP, Brasil;-49.3163824;-20.7690452
+B077;Eplatz Rio Preto;São José do Rio Preto;Eplatz Rio Preto, São José do Rio Preto, SP, Brasil;-49.3440907;-20.884234
+B078;Eplenum Tresor;São José do Rio Preto;Eplenum Tresor, São José do Rio Preto, SP, Brasil;-49.397825;-20.8579195
+B079;Estancia Sobrinho;São José do Rio Preto;Estancia Sobrinho, São José do Rio Preto, SP, Brasil;-49.3796891;-20.911387
+B080;Estancia São João;São José do Rio Preto;Estancia São João, São José do Rio Preto, SP, Brasil;-49.3710499;-20.7719332
+B081;Estancia São Marcos 2;São José do Rio Preto;Estancia São Marcos 2, São José do Rio Preto, SP, Brasil;-49.3870434;-20.8655184
+B082;Estancia São Marcos 4;São José do Rio Preto;Estancia São Marcos 4, São José do Rio Preto, SP, Brasil;-49.3872035;-20.8641855
+B083;Estancia São Pedro;São José do Rio Preto;Estancia São Pedro, São José do Rio Preto, SP, Brasil;-49.3794924;-20.8615917
+B084;Estoril;São José do Rio Preto;Estoril, São José do Rio Preto, SP, Brasil;-49.38032119520812;-20.836398138812203
+B085;Estância Alvorada;São José do Rio Preto;Estância Alvorada, São José do Rio Preto, SP, Brasil;-49.4288117;-20.7524584
+B086;Estância Alvorada II;São José do Rio Preto;Estância Alvorada II, São José do Rio Preto, SP, Brasil;-49.4311016;-20.7459977
+B087;Estância Beira Rio;São José do Rio Preto;Estância Beira Rio, São José do Rio Preto, SP, Brasil;-49.395116;-20.722431
+B088;Estância Bela Vista;São José do Rio Preto;Estância Bela Vista, São José do Rio Preto, SP, Brasil;-49.4378106;-20.7606236
+B089;Estância Bela Vista Ipiguá;São José do Rio Preto;Estância Bela Vista Ipiguá, São José do Rio Preto, SP, Brasil;-49.3906367;-20.7090742
+B090;Estância Bortoluzzo;São José do Rio Preto;Estância Bortoluzzo, São José do Rio Preto, SP, Brasil;-49.3134749;-20.8918528
+B091;Estância Bosque Verde;São José do Rio Preto;Estância Bosque Verde, São José do Rio Preto, SP, Brasil;-49.3537858;-20.7372577
+B092;Estância Cavalari;São José do Rio Preto;Estância Cavalari, São José do Rio Preto, SP, Brasil;-49.3643647;-20.7530512
+B093;Estância Galiléia;São José do Rio Preto;Estância Galiléia, São José do Rio Preto, SP, Brasil;-49.3912912;-20.7254012
+B094;Estância Gramado;São José do Rio Preto;Estância Gramado, São José do Rio Preto, SP, Brasil;-49.3576858;-20.7220981
+B095;Estância Jockey Clube;São José do Rio Preto;Estância Jockey Clube, São José do Rio Preto, SP, Brasil;-49.3466608;-20.8563178
+B096;Estância Manacás;São José do Rio Preto;Estância Manacás, São José do Rio Preto, SP, Brasil;-49.3158782;-20.8500441
+B097;Estância Morada do Sol;São José do Rio Preto;Estância Morada do Sol, São José do Rio Preto, SP, Brasil;-49.3898964;-20.7106196
+B098;Estância Navarrete 1;São José do Rio Preto;Estância Navarrete 1, São José do Rio Preto, SP, Brasil;-49.373492;-20.8776188
+B099;Estância Navarrete 2;São José do Rio Preto;Estância Navarrete 2, São José do Rio Preto, SP, Brasil;-49.3740114;-20.8755755
+B100;Estância Nossa Senhora Aparecida;São José do Rio Preto;Estância Nossa Senhora Aparecida, São José do Rio Preto, SP, Brasil;-49.4369694;-20.7631284
+B101;Estância Nossa Senhora de Fátima;São José do Rio Preto;Estância Nossa Senhora de Fátima, São José do Rio Preto, SP, Brasil;-49.3158996;-20.8474122
+B102;Estância Nossa Senhora de Lourdes;São José do Rio Preto;Estância Nossa Senhora de Lourdes, São José do Rio Preto, SP, Brasil;-49.3904597;-20.7159233
+B103;Estância Oásis;São José do Rio Preto;Estância Oásis, São José do Rio Preto, SP, Brasil;-49.3933296;-20.7255718
+B104;Estância Pousada dos Pássaros;São José do Rio Preto;Estância Pousada dos Pássaros, São José do Rio Preto, SP, Brasil;-49.4327284;-20.7365143
+B105;Estância Primavera;São José do Rio Preto;Estância Primavera, São José do Rio Preto, SP, Brasil;-49.344036;-20.7420476
+B106;Estância Primavera 1;São José do Rio Preto;Estância Primavera 1, São José do Rio Preto, SP, Brasil;-49.3423998;-20.7451981
+B107;Estância Primavera 3;São José do Rio Preto;Estância Primavera 3, São José do Rio Preto, SP, Brasil;-49.3425983;-20.7426346
+B108;Estância Primavera 4;São José do Rio Preto;Estância Primavera 4, São José do Rio Preto, SP, Brasil;-49.3415684;-20.7430861
+B109;Estância Primavera II;São José do Rio Preto;Estância Primavera II, São José do Rio Preto, SP, Brasil;-49.2937231;-20.8321612
+B110;Estância San Carlo;São José do Rio Preto;Estância San Carlo, São José do Rio Preto, SP, Brasil;-49.3474746;-20.7106799
+B111;Estância San Luiz I;São José do Rio Preto;Estância San Luiz I, São José do Rio Preto, SP, Brasil;-49.2959762;-20.7045581
+B112;Estância San Luiz II;São José do Rio Preto;Estância San Luiz II, São José do Rio Preto, SP, Brasil;-49.2992699;-20.704819
+B113;Estância Santa Ana;São José do Rio Preto;Estância Santa Ana, São José do Rio Preto, SP, Brasil;-49.3613013;-20.7510086
+B114;Estância Santa Catarina;São José do Rio Preto;Estância Santa Catarina, São José do Rio Preto, SP, Brasil;-49.3132836;-20.8512613
+B115;Estância Santa Clara;São José do Rio Preto;Estância Santa Clara, São José do Rio Preto, SP, Brasil;-49.3531399;-20.7439695
+B116;Estância Santa Edwirges I;São José do Rio Preto;Estância Santa Edwirges I, São José do Rio Preto, SP, Brasil;-49.4491498;-20.7306848
+B117;Estância Santa Edwirges II;São José do Rio Preto;Estância Santa Edwirges II, São José do Rio Preto, SP, Brasil;-49.4532398;-20.7311398
+B118;Estância Santa Helena;São José do Rio Preto;Estância Santa Helena, São José do Rio Preto, SP, Brasil;-49.3265104;-20.7954462
+B119;Estância Santa Inês;São José do Rio Preto;Estância Santa Inês, São José do Rio Preto, SP, Brasil;-49.3973191;-20.8667023
+B120;Estância Santa Inês 1;São José do Rio Preto;Estância Santa Inês 1, São José do Rio Preto, SP, Brasil;-49.4005716;-20.869584
+B121;Estância Santa Maria;São José do Rio Preto;Estância Santa Maria, São José do Rio Preto, SP, Brasil;-49.3916768;-20.8648586
+B122;Estância Santo Antônio;São José do Rio Preto;Estância Santo Antônio, São José do Rio Preto, SP, Brasil;-49.3482471;-20.7282912
+B123;Estância Sossego;São José do Rio Preto;Estância Sossego, São José do Rio Preto, SP, Brasil;-49.318893;-20.7313115
+B124;Estância Suíça;São José do Rio Preto;Estância Suíça, São José do Rio Preto, SP, Brasil;-49.3791707;-20.7556941
+B125;Estância São Carlos;São José do Rio Preto;Estância São Carlos, São José do Rio Preto, SP, Brasil;-49.3484724;-20.7063444
+B126;Estância São Felício;São José do Rio Preto;Estância São Felício, São José do Rio Preto, SP, Brasil;-49.4003677;-20.7190292
+B127;Estância São Luíz I;São José do Rio Preto;Estância São Luíz I, São José do Rio Preto, SP, Brasil;-49.2979932;-20.691029
+B128;Estância São Luíz II;São José do Rio Preto;Estância São Luíz II, São José do Rio Preto, SP, Brasil;-49.2973924;-20.6933776
+B129;Estância São Luíz III;São José do Rio Preto;Estância São Luíz III, São José do Rio Preto, SP, Brasil;-49.3013191;-20.693197
+B130;Estância São Manoel;São José do Rio Preto;Estância São Manoel, São José do Rio Preto, SP, Brasil;-49.3310217;-20.6991598
+B131;Estância Unitra;São José do Rio Preto;Estância Unitra, São José do Rio Preto, SP, Brasil;-49.3577612;-20.8653546
+B132;Estância Verão;São José do Rio Preto;Estância Verão, São José do Rio Preto, SP, Brasil;-49.3437306;-20.6862122
+B133;Estância Vista Bonita;São José do Rio Preto;Estância Vista Bonita, São José do Rio Preto, SP, Brasil;-49.4214848;-20.7672295
+B134;Estância Vitória;São José do Rio Preto;Estância Vitória, São José do Rio Preto, SP, Brasil;-49.3639634;-20.7283888
+B135;Estância Yvonne;São José do Rio Preto;Estância Yvonne, São José do Rio Preto, SP, Brasil;-49.3182278;-20.7923469
+B136;Estâncias do Pica-pau Amarelo;São José do Rio Preto;Estâncias do Pica-pau Amarelo, São José do Rio Preto, SP, Brasil;-49.2879885;-20.7901503
+B137;Giardino I - Casas de Florença;São José do Rio Preto;Giardino I - Casas de Florença, São José do Rio Preto, SP, Brasil;-49.3321055;-20.803826
+B138;Giardino II - Casas de Veneza;São José do Rio Preto;Giardino II - Casas de Veneza, São José do Rio Preto, SP, Brasil;-49.3318963;-20.8019404
+B139;Gonzaga de Campos;São José do Rio Preto;Gonzaga de Campos, São José do Rio Preto, SP, Brasil;-49.4239101;-20.8111215
+B140;Higienópolis;São José do Rio Preto;Higienópolis, São José do Rio Preto, SP, Brasil;-49.3881547;-20.8368569
+B141;Jardim Aclimação;São José do Rio Preto;Jardim Aclimação, São José do Rio Preto, SP, Brasil;-49.4039753;-20.8408873
+B142;Jardim Alto Alegre;São José do Rio Preto;Jardim Alto Alegre, São José do Rio Preto, SP, Brasil;-49.3577852;-20.7901311
+B143;Jardim Alto Rio Preto;São José do Rio Preto;Jardim Alto Rio Preto, São José do Rio Preto, SP, Brasil;-49.405554;-20.8210606
+B144;Jardim Alvorada;São José do Rio Preto;Jardim Alvorada, São José do Rio Preto, SP, Brasil;-49.3965322;-20.8146422
+B145;Jardim Americano;São José do Rio Preto;Jardim Americano, São José do Rio Preto, SP, Brasil;-49.3620563;-20.7983931
+B146;Jardim América;São José do Rio Preto;Jardim América, São José do Rio Preto, SP, Brasil;-49.3662228;-20.7954894
+B147;Jardim Analice;São José do Rio Preto;Jardim Analice, São José do Rio Preto, SP, Brasil;-49.3649221;-20.8157812
+B148;Jardim Anice;São José do Rio Preto;Jardim Anice, São José do Rio Preto, SP, Brasil;-49.3535632;-20.7916799
+B149;Jardim Antonieta;São José do Rio Preto;Jardim Antonieta, São José do Rio Preto, SP, Brasil;-49.4332716;-20.7970857
+B150;Jardim Antunes;São José do Rio Preto;Jardim Antunes, São José do Rio Preto, SP, Brasil;-49.404434;-20.7700758
+B151;Jardim Arroyo;São José do Rio Preto;Jardim Arroyo, São José do Rio Preto, SP, Brasil;-49.4053967;-20.7631305
+B152;Jardim Asturias;São José do Rio Preto;Jardim Asturias, São José do Rio Preto, SP, Brasil;-49.4160369;-20.782933
+B153;Jardim Bela Vista;São José do Rio Preto;Jardim Bela Vista, São José do Rio Preto, SP, Brasil;-49.3624268;-20.7992718
+B154;Jardim Bianco;São José do Rio Preto;Jardim Bianco, São José do Rio Preto, SP, Brasil;-49.4254931;-20.7879696
+B155;Jardim Boa Esperança;São José do Rio Preto;Jardim Boa Esperança, São José do Rio Preto, SP, Brasil;-49.293294;-20.7070971
+B156;Jardim Bordon;São José do Rio Preto;Jardim Bordon, São José do Rio Preto, SP, Brasil;-49.3642661;-20.7973055
+B157;Jardim Braga;São José do Rio Preto;Jardim Braga, São José do Rio Preto, SP, Brasil;-49.3938527;-20.7786653
+B158;Jardim Campo Belo;São José do Rio Preto;Jardim Campo Belo, São José do Rio Preto, SP, Brasil;-49.4349146;-20.7692258
+B159;Jardim Canaã;São José do Rio Preto;Jardim Canaã, São José do Rio Preto, SP, Brasil;-49.4034308;-20.8047737
+B160;Jardim Castelinho;São José do Rio Preto;Jardim Castelinho, São José do Rio Preto, SP, Brasil;-49.3565081;-20.7754017
+B161;Jardim Castelinho III;São José do Rio Preto;Jardim Castelinho III, São José do Rio Preto, SP, Brasil;-49.3584248;-20.7722642
+B162;Jardim Conceição;São José do Rio Preto;Jardim Conceição, São José do Rio Preto, SP, Brasil;-49.3784973;-20.7885085
+B163;Jardim Congonhas;São José do Rio Preto;Jardim Congonhas, São José do Rio Preto, SP, Brasil;-49.4056571;-20.8050194
+B164;Jardim Costa do Sol;São José do Rio Preto;Jardim Costa do Sol, São José do Rio Preto, SP, Brasil;-49.3914454;-20.7881362
+B165;Jardim Estrela;São José do Rio Preto;Jardim Estrela, São José do Rio Preto, SP, Brasil;-49.3597215;-20.8137196
+B166;Jardim Europa;São José do Rio Preto;Jardim Europa, São José do Rio Preto, SP, Brasil;-49.3830727;-20.8218082
+B167;Jardim Felicidade;São José do Rio Preto;Jardim Felicidade, São José do Rio Preto, SP, Brasil;-49.3568452;-20.7567746
+B168;Jardim Flor do Bairro;São José do Rio Preto;Jardim Flor do Bairro, São José do Rio Preto, SP, Brasil;-49.3701385;-20.7700286
+B169;Jardim Francisco Fernandes;São José do Rio Preto;Jardim Francisco Fernandes, São José do Rio Preto, SP, Brasil;-49.3975324;-20.8407933
+B170;Jardim Fuscaldo;São José do Rio Preto;Jardim Fuscaldo, São José do Rio Preto, SP, Brasil;-49.3580678;-20.8053957
+B171;Jardim Gisete;São José do Rio Preto;Jardim Gisete, São José do Rio Preto, SP, Brasil;-49.4226429;-20.7876476
+B172;Jardim Itapema;São José do Rio Preto;Jardim Itapema, São José do Rio Preto, SP, Brasil;-49.3939465;-20.7794477
+B173;Jardim Itapema 2;São José do Rio Preto;Jardim Itapema 2, São José do Rio Preto, SP, Brasil;-49.3927637;-20.7803505
+B174;Jardim Jandira;São José do Rio Preto;Jardim Jandira, São José do Rio Preto, SP, Brasil;-49.3527348;-20.7822841
+B175;Jardim João Paulo II;São José do Rio Preto;Jardim João Paulo II, São José do Rio Preto, SP, Brasil;-49.3651665;-20.7722564
+B176;Jardim Juliana 1;São José do Rio Preto;Jardim Juliana 1, São José do Rio Preto, SP, Brasil;-49.3704879;-20.7673047
+B177;Jardim Juliana 2;São José do Rio Preto;Jardim Juliana 2, São José do Rio Preto, SP, Brasil;-49.3700051;-20.7675655
+B178;Jardim Leste;São José do Rio Preto;Jardim Leste, São José do Rio Preto, SP, Brasil;-49.323222;-20.7707907
+B179;Jardim Los Angeles;São José do Rio Preto;Jardim Los Angeles, São José do Rio Preto, SP, Brasil;-49.3993204;-20.7937932
+B180;Jardim Manoel Del Arco;São José do Rio Preto;Jardim Manoel Del Arco, São José do Rio Preto, SP, Brasil;-49.392678;-20.767325
+B181;Jardim Maracanã;São José do Rio Preto;Jardim Maracanã, São José do Rio Preto, SP, Brasil;-49.4093424;-20.8266736
+B182;Jardim Marambaia;São José do Rio Preto;Jardim Marambaia, São José do Rio Preto, SP, Brasil;-49.3519918;-20.7928831
+B183;Jardim Maria Cândida;São José do Rio Preto;Jardim Maria Cândida, São José do Rio Preto, SP, Brasil;-49.4090214;-20.8208312
+B184;Jardim Maria Lucia;São José do Rio Preto;Jardim Maria Lucia, São José do Rio Preto, SP, Brasil;-49.4049768;-20.7672804
+B185;Jardim Michael Jacob;São José do Rio Preto;Jardim Michael Jacob, São José do Rio Preto, SP, Brasil;-49.4000056;-20.8399523
+B186;Jardim Monte Cristo;São José do Rio Preto;Jardim Monte Cristo, São José do Rio Preto, SP, Brasil;-49.3470584;-20.7579635
+B187;Jardim Morumbi;São José do Rio Preto;Jardim Morumbi, São José do Rio Preto, SP, Brasil;-49.3957331;-20.8356389
+B188;Jardim Moysés Miguel Haddad;São José do Rio Preto;Jardim Moysés Miguel Haddad, São José do Rio Preto, SP, Brasil;-49.4115792;-20.8554621
+B189;Jardim Mugnaini;São José do Rio Preto;Jardim Mugnaini, São José do Rio Preto, SP, Brasil;-49.38995;-20.7846938
+B190;Jardim Municipal;São José do Rio Preto;Jardim Municipal, São José do Rio Preto, SP, Brasil;-49.3585643;-20.7925099
+B191;Jardim Nazareth;São José do Rio Preto;Jardim Nazareth, São José do Rio Preto, SP, Brasil;-49.358338;-20.7826888
+B192;Jardim Nilza Helena;São José do Rio Preto;Jardim Nilza Helena, São José do Rio Preto, SP, Brasil;-49.3542131;-20.8154911
+B193;Jardim Novo Aeroporto;São José do Rio Preto;Jardim Novo Aeroporto, São José do Rio Preto, SP, Brasil;-49.4015895;-20.8099901
+B194;Jardim Novo Mundo;São José do Rio Preto;Jardim Novo Mundo, São José do Rio Preto, SP, Brasil;-49.3782932;-20.8296944
+B195;Jardim Nunes;São José do Rio Preto;Jardim Nunes, São José do Rio Preto, SP, Brasil;-49.387686;-20.7499716
+B196;Jardim Nunes 2;São José do Rio Preto;Jardim Nunes 2, São José do Rio Preto, SP, Brasil;-49.3790013;-20.7500541
+B197;Jardim Ouro Verde;São José do Rio Preto;Jardim Ouro Verde, São José do Rio Preto, SP, Brasil;-49.3769601;-20.8374656
+B198;Jardim Panorama;São José do Rio Preto;Jardim Panorama, São José do Rio Preto, SP, Brasil;-49.402346;-20.827516
+B199;Jardim Paraíso;São José do Rio Preto;Jardim Paraíso, São José do Rio Preto, SP, Brasil;-49.3874663;-20.7795881
+B200;Jardim Paulista;São José do Rio Preto;Jardim Paulista, São José do Rio Preto, SP, Brasil;-49.3675264;-20.8020134
+B201;Jardim Paulistano;São José do Rio Preto;Jardim Paulistano, São José do Rio Preto, SP, Brasil;-49.4156027;-20.8630025
+B202;Jardim Planalto;São José do Rio Preto;Jardim Planalto, São José do Rio Preto, SP, Brasil;-49.3866174;-20.7644695
+B203;Jardim Primavera;São José do Rio Preto;Jardim Primavera, São José do Rio Preto, SP, Brasil;-49.358756;-20.8007269
+B204;Jardim Regina Maura;São José do Rio Preto;Jardim Regina Maura, São José do Rio Preto, SP, Brasil;-49.3670574;-20.7923871
+B205;Jardim Residencial Vale do Sol;São José do Rio Preto;Jardim Residencial Vale do Sol, São José do Rio Preto, SP, Brasil;-49.3850577;-20.7825171
+B206;Jardim Residencial das Laranjeiras;São José do Rio Preto;Jardim Residencial das Laranjeiras, São José do Rio Preto, SP, Brasil;-49.4120326;-20.7872322
+B207;Jardim Santa Catarina;São José do Rio Preto;Jardim Santa Catarina, São José do Rio Preto, SP, Brasil;-49.3694831;-20.8277787
+B208;Jardim Santa Luzia;São José do Rio Preto;Jardim Santa Luzia, São José do Rio Preto, SP, Brasil;-49.3728415;-20.8253053
+B209;Jardim Santa Maria;São José do Rio Preto;Jardim Santa Maria, São José do Rio Preto, SP, Brasil;-49.3644623;-20.8299407
+B210;Jardim Santa Rosa 1;São José do Rio Preto;Jardim Santa Rosa 1, São José do Rio Preto, SP, Brasil;-49.3711478;-20.7853508
+B211;Jardim Santa Rosa II;São José do Rio Preto;Jardim Santa Rosa II, São José do Rio Preto, SP, Brasil;-49.3670751;-20.7838736
+B212;Jardim Santo Antônio I;São José do Rio Preto;Jardim Santo Antônio I, São José do Rio Preto, SP, Brasil;-49.3974536;-20.7600821
+B213;Jardim Schmitt;São José do Rio Preto;Jardim Schmitt, São José do Rio Preto, SP, Brasil;-49.3074882;-20.8637143
+B214;Jardim Seixas;São José do Rio Preto;Jardim Seixas, São José do Rio Preto, SP, Brasil;-49.3684964;-20.8061
+B215;Jardim Senedu;São José do Rio Preto;Jardim Senedu, São José do Rio Preto, SP, Brasil;-49.3723464;-20.7790349
+B216;Jardim Seyon;São José do Rio Preto;Jardim Seyon, São José do Rio Preto, SP, Brasil;-49.3696944;-20.7780824
+B217;Jardim Simões;São José do Rio Preto;Jardim Simões, São José do Rio Preto, SP, Brasil;-49.3833778;-20.7680916
+B218;Jardim Soraia;São José do Rio Preto;Jardim Soraia, São José do Rio Preto, SP, Brasil;-49.3551322;-20.8168553
+B219;Jardim Suzana;São José do Rio Preto;Jardim Suzana, São José do Rio Preto, SP, Brasil;-49.3766555;-20.7818085
+B220;Jardim São Bento;São José do Rio Preto;Jardim São Bento, São José do Rio Preto, SP, Brasil;-49.3668348;-20.7665172
+B221;Jardim São Marco;São José do Rio Preto;Jardim São Marco, São José do Rio Preto, SP, Brasil;-49.3591998;-20.8392954
+B222;Jardim São Paulo;São José do Rio Preto;Jardim São Paulo, São José do Rio Preto, SP, Brasil;-49.3566357;-20.7976086
+B223;Jardim São Vicente;São José do Rio Preto;Jardim São Vicente, São José do Rio Preto, SP, Brasil;-49.3685524;-20.8001691
+B224;Jardim Sônia;São José do Rio Preto;Jardim Sônia, São José do Rio Preto, SP, Brasil;-49.372874;-20.784685
+B225;Jardim Tangará;São José do Rio Preto;Jardim Tangará, São José do Rio Preto, SP, Brasil;-49.3734757;-20.8409025
+B226;Jardim Tarraf 1;São José do Rio Preto;Jardim Tarraf 1, São José do Rio Preto, SP, Brasil;-49.4080415;-20.8404061
+B227;Jardim Tarraf 2;São José do Rio Preto;Jardim Tarraf 2, São José do Rio Preto, SP, Brasil;-49.4154096;-20.8368138
+B228;Jardim Urano;São José do Rio Preto;Jardim Urano, São José do Rio Preto, SP, Brasil;-49.3756914;-20.832462
+B229;Jardim Urupês;São José do Rio Preto;Jardim Urupês, São José do Rio Preto, SP, Brasil;-49.3720797;-20.7742376
+B230;Jardim Veneza;São José do Rio Preto;Jardim Veneza, São José do Rio Preto, SP, Brasil;-49.3292169;-20.8820509
+B231;Jardim Vetorasso;São José do Rio Preto;Jardim Vetorasso, São José do Rio Preto, SP, Brasil;-49.4139839;-20.7974371
+B232;Jardim Vieira;São José do Rio Preto;Jardim Vieira, São José do Rio Preto, SP, Brasil;-49.365043;-20.7922466
+B233;Jardim Viena;São José do Rio Preto;Jardim Viena, São José do Rio Preto, SP, Brasil;-49.3822474;-20.8489155
+B234;Jardim Vitagliano;São José do Rio Preto;Jardim Vitagliano, São José do Rio Preto, SP, Brasil;-49.424218;-20.8737994
+B235;Jardim Vitória Régia;São José do Rio Preto;Jardim Vitória Régia, São José do Rio Preto, SP, Brasil;-49.3528584;-20.8204512
+B236;Jardim Yolanda;São José do Rio Preto;Jardim Yolanda, São José do Rio Preto, SP, Brasil;-49.3489105;-20.8038256
+B237;Jardim Zaira;São José do Rio Preto;Jardim Zaira, São José do Rio Preto, SP, Brasil;-49.3510703;-20.8172682
+B238;Jardim Zé Menino;São José do Rio Preto;Jardim Zé Menino, São José do Rio Preto, SP, Brasil;-49.3924654;-20.7659336
+B239;Jardim das Oliveiras;São José do Rio Preto;Jardim das Oliveiras, São José do Rio Preto, SP, Brasil;-49.4116468;-20.7721022
+B240;Jardim do Cedro;São José do Rio Preto;Jardim do Cedro, São José do Rio Preto, SP, Brasil;-49.4394958;-20.8139603
+B241;Jardim do Centro;São José do Rio Preto;Jardim do Centro, São José do Rio Preto, SP, Brasil;-49.389954;-20.8260309
+B242;Jardim do Lago;São José do Rio Preto;Jardim do Lago, São José do Rio Preto, SP, Brasil;-49.353302;-20.7724927
+B243;Jardim do Norte;São José do Rio Preto;Jardim do Norte, São José do Rio Preto, SP, Brasil;-49.3918909;-20.8240009
+B244;Jardim do Sul;São José do Rio Preto;Jardim do Sul, São José do Rio Preto, SP, Brasil;-49.3924955;-20.8257275
+B245;Jardim dos Buritis;São José do Rio Preto;Jardim dos Buritis, São José do Rio Preto, SP, Brasil;-49.4235744;-20.753841
+B246;Jardim dos Gomes;São José do Rio Preto;Jardim dos Gomes, São José do Rio Preto, SP, Brasil;-49.3554595;-20.8141633
+B247;Jardins Rio Preto;São José do Rio Preto;Jardins Rio Preto, São José do Rio Preto, SP, Brasil;-49.4303924;-20.8067545
+B248;Loteamento Auferville III;São José do Rio Preto;Loteamento Auferville III, São José do Rio Preto, SP, Brasil;-49.3646556;-20.8946009
+B249;Loteamento Caparroz;São José do Rio Preto;Loteamento Caparroz, São José do Rio Preto, SP, Brasil;-49.3731418;-20.7824476
+B250;Loteamento Coplan;São José do Rio Preto;Loteamento Coplan, São José do Rio Preto, SP, Brasil;-49.3718988;-20.8464697
+B251;Loteamento Egydio Zani;São José do Rio Preto;Loteamento Egydio Zani, São José do Rio Preto, SP, Brasil;-49.3774431;-20.7244412
+B252;Loteamento Fazenda Rio Preto;São José do Rio Preto;Loteamento Fazenda Rio Preto, São José do Rio Preto, SP, Brasil;-49.3227249;-20.8463258
+B253;Loteamento Jardim do Norte;São José do Rio Preto;Loteamento Jardim do Norte, São José do Rio Preto, SP, Brasil;-49.3742465;-20.7669424
+B254;Loteamento Jayme Rosário;São José do Rio Preto;Loteamento Jayme Rosário, São José do Rio Preto, SP, Brasil;-49.3740676;-20.7916253
+B255;Loteamento Jorge Rodrigues;São José do Rio Preto;Loteamento Jorge Rodrigues, São José do Rio Preto, SP, Brasil;-49.3818565;-20.7417062
+B256;Loteamento João Gonçalves da Silva;São José do Rio Preto;Loteamento João Gonçalves da Silva, São José do Rio Preto, SP, Brasil;-49.3805194;-20.7910781
+B257;Loteamento Marisa Cristina I;São José do Rio Preto;Loteamento Marisa Cristina I, São José do Rio Preto, SP, Brasil;-49.3695255;-20.7581431
+B258;Loteamento Marisa Cristina II;São José do Rio Preto;Loteamento Marisa Cristina II, São José do Rio Preto, SP, Brasil;-49.3682286;-20.757658
+B259;Loteamento Morada Campestre;São José do Rio Preto;Loteamento Morada Campestre, São José do Rio Preto, SP, Brasil;-49.3285748;-20.8381854
+B260;Loteamento Residencial José Bernardes Coelho;São José do Rio Preto;Loteamento Residencial José Bernardes Coelho, São José do Rio Preto, SP, Brasil;-49.4319182;-20.751856
+B261;Loteamento Rios do Sul;São José do Rio Preto;Loteamento Rios do Sul, São José do Rio Preto, SP, Brasil;-49.3900806;-20.7527705
+B262;Loteamento São João;São José do Rio Preto;Loteamento São João, São José do Rio Preto, SP, Brasil;-49.4010462;-20.8331796
+B263;Loteamento Vila Nova;São José do Rio Preto;Loteamento Vila Nova, São José do Rio Preto, SP, Brasil;-49.3690605;-20.8129732
+B264;Maisparque Rio Preto;São José do Rio Preto;Maisparque Rio Preto, São José do Rio Preto, SP, Brasil;-49.3441486;-20.7656745
+B265;Marte Santa Catarina;São José do Rio Preto;Marte Santa Catarina, São José do Rio Preto, SP, Brasil;-49.4124377;-20.8057415
+B266;Mini Distrito Centenário da Emancipação;São José do Rio Preto;Mini Distrito Centenário da Emancipação, São José do Rio Preto, SP, Brasil;-49.3816107;-20.762615
+B267;Mini Distrito Industrial Giuliane I;São José do Rio Preto;Mini Distrito Industrial Giuliane I, São José do Rio Preto, SP, Brasil;-49.3706464;-20.775537
+B268;Mini Distrito Jaguaré;São José do Rio Preto;Mini Distrito Jaguaré, São José do Rio Preto, SP, Brasil;-49.3698294;-20.7767155
+B269;Mini Distrito Professor Adail Vetorazzo;São José do Rio Preto;Mini Distrito Professor Adail Vetorazzo, São José do Rio Preto, SP, Brasil;-49.3956069;-20.7684072
+B270;Newe Atma;São José do Rio Preto;Newe Atma, São José do Rio Preto, SP, Brasil;-49.3287313;-20.8158657
+B271;Nova Redentora;São José do Rio Preto;Nova Redentora, São José do Rio Preto, SP, Brasil;-49.3906034;-20.8280819
+B272;Núcleo Habitacional Pica-Pau Amarelo;São José do Rio Preto;Núcleo Habitacional Pica-Pau Amarelo, São José do Rio Preto, SP, Brasil;-49.3370891;-20.7209458
+B273;Núcleo da Esperança;São José do Rio Preto;Núcleo da Esperança, São José do Rio Preto, SP, Brasil;-49.3203968;-20.850379
+B274;Parque Celeste;São José do Rio Preto;Parque Celeste, São José do Rio Preto, SP, Brasil;-49.3645813;-20.8187086
+B275;Parque Estoril;São José do Rio Preto;Parque Estoril, São José do Rio Preto, SP, Brasil;-49.3819436;-20.8358888
+B276;Parque Industrial;São José do Rio Preto;Parque Industrial, São José do Rio Preto, SP, Brasil;-49.3922951;-20.802415
+B277;Parque Industrial Campo Verde;São José do Rio Preto;Parque Industrial Campo Verde, São José do Rio Preto, SP, Brasil;-49.3588639;-20.8303489
+B278;Parque Industrial Tancredo Neves;São José do Rio Preto;Parque Industrial Tancredo Neves, São José do Rio Preto, SP, Brasil;-49.3532187;-20.8374848
+B279;Parque Jaguaré;São José do Rio Preto;Parque Jaguaré, São José do Rio Preto, SP, Brasil;-49.3684483;-20.7741124
+B280;Parque Maria Serantes;São José do Rio Preto;Parque Maria Serantes, São José do Rio Preto, SP, Brasil;-49.3224925;-20.7583009
+B281;Parque Nova Esperança;São José do Rio Preto;Parque Nova Esperança, São José do Rio Preto, SP, Brasil;-49.4165952;-20.7414081
+B282;Parque Olinda Sala;São José do Rio Preto;Parque Olinda Sala, São José do Rio Preto, SP, Brasil;-49.3450606;-20.7205344
+B283;Parque Quinta das Paineiras;São José do Rio Preto;Parque Quinta das Paineiras, São José do Rio Preto, SP, Brasil;-49.3685014;-20.8325054
+B284;Parque Residencial Cambuí;São José do Rio Preto;Parque Residencial Cambuí, São José do Rio Preto, SP, Brasil;-49.3441218;-20.8407244
+B285;Parque Residencial Castelinho;São José do Rio Preto;Parque Residencial Castelinho, São José do Rio Preto, SP, Brasil;-49.3609452;-20.7775878
+B286;Parque Residencial Dignidade;São José do Rio Preto;Parque Residencial Dignidade, São José do Rio Preto, SP, Brasil;-49.4368767;-20.7518186
+B287;Parque Residencial Dom Lafayete Libânio;São José do Rio Preto;Parque Residencial Dom Lafayete Libânio, São José do Rio Preto, SP, Brasil;-49.3879974;-20.7740108
+B288;Parque Residencial Edson Baffi;São José do Rio Preto;Parque Residencial Edson Baffi, São José do Rio Preto, SP, Brasil;-49.4414276;-20.7561868
+B289;Parque Residencial J Macedo;São José do Rio Preto;Parque Residencial J Macedo, São José do Rio Preto, SP, Brasil;-49.4288349;-20.7992059
+B290;Parque Residencial Jardim do Bosque;São José do Rio Preto;Parque Residencial Jardim do Bosque, São José do Rio Preto, SP, Brasil;-49.3672659;-20.7802625
+B291;Parque Residencial Jardim do Bosque II;São José do Rio Preto;Parque Residencial Jardim do Bosque II, São José do Rio Preto, SP, Brasil;-49.3658643;-20.7788705
+B292;Parque Residencial Joaquim Nabuco;São José do Rio Preto;Parque Residencial Joaquim Nabuco, São José do Rio Preto, SP, Brasil;-49.3756307;-20.7915463
+B293;Parque Residencial João da Silva;São José do Rio Preto;Parque Residencial João da Silva, São José do Rio Preto, SP, Brasil;-49.4090332;-20.7870761
+B294;Parque Residencial Lauriano Tebar;São José do Rio Preto;Parque Residencial Lauriano Tebar, São José do Rio Preto, SP, Brasil;-49.4104529;-20.801795
+B295;Parque Residencial Lauriano Tebar II;São José do Rio Preto;Parque Residencial Lauriano Tebar II, São José do Rio Preto, SP, Brasil;-49.3486081;-20.8319738
+B296;Parque Residencial Mançor Daud;São José do Rio Preto;Parque Residencial Mançor Daud, São José do Rio Preto, SP, Brasil;-49.3613838;-20.8237584
+B297;Parque Residencial Maria Zorita;São José do Rio Preto;Parque Residencial Maria Zorita, São José do Rio Preto, SP, Brasil;-49.4237078;-20.7833686
+B298;Parque Residencial Nova Esperança;São José do Rio Preto;Parque Residencial Nova Esperança, São José do Rio Preto, SP, Brasil;-49.41396695433244;-20.741773688567886
+B299;Parque Residencial Romano Calil;São José do Rio Preto;Parque Residencial Romano Calil, São José do Rio Preto, SP, Brasil;-49.3560956;-20.8255437
+B300;Parque Residencial Universo;São José do Rio Preto;Parque Residencial Universo, São José do Rio Preto, SP, Brasil;-49.4178397;-20.7833998
+B301;Parque Residencial da Fraternidade;São José do Rio Preto;Parque Residencial da Fraternidade, São José do Rio Preto, SP, Brasil;-49.341799;-20.8750926
+B302;Parque Residencial da Fraternidade 2;São José do Rio Preto;Parque Residencial da Fraternidade 2, São José do Rio Preto, SP, Brasil;-49.3397498;-20.8814831
+B303;Parque Residencial da Fraternidade 3;São José do Rio Preto;Parque Residencial da Fraternidade 3, São José do Rio Preto, SP, Brasil;-49.3338221;-20.8752731
+B304;Parque São Miguel;São José do Rio Preto;Parque São Miguel, São José do Rio Preto, SP, Brasil;-49.3488204;-20.797817
+B305;Parque Tecnológico Vanda Karina Simei Bolçone;São José do Rio Preto;Parque Tecnológico Vanda Karina Simei Bolçone, São José do Rio Preto, SP, Brasil;-49.4231236;-20.8379168
+B306;Parque da Cidadania;São José do Rio Preto;Parque da Cidadania, São José do Rio Preto, SP, Brasil;-49.4065316;-20.7514213
+B307;Parque das Amoras;São José do Rio Preto;Parque das Amoras, São José do Rio Preto, SP, Brasil;-49.3135099;-20.8635901
+B308;Parque das Aroeiras;São José do Rio Preto;Parque das Aroeiras, São José do Rio Preto, SP, Brasil;-49.4332518;-20.7858677
+B309;Parque das Aroeiras II;São José do Rio Preto;Parque das Aroeiras II, São José do Rio Preto, SP, Brasil;-49.4393319;-20.7870631
+B310;Parque das Flores 1;São José do Rio Preto;Parque das Flores 1, São José do Rio Preto, SP, Brasil;-49.3747112;-20.7778665
+B311;Parque das Flores 2;São José do Rio Preto;Parque das Flores 2, São José do Rio Preto, SP, Brasil;-49.3725918;-20.7779158
+B312;Parque das Perdizes;São José do Rio Preto;Parque das Perdizes, São José do Rio Preto, SP, Brasil;-49.3896074;-20.7632254
+B313;Parque do Sabiá;São José do Rio Preto;Parque do Sabiá, São José do Rio Preto, SP, Brasil;-49.3332631;-20.7304439
+B314;Parque do Sol;São José do Rio Preto;Parque do Sol, São José do Rio Preto, SP, Brasil;-49.4194556;-20.7997861
+B315;Parque dos Pássaros;São José do Rio Preto;Parque dos Pássaros, São José do Rio Preto, SP, Brasil;-49.4199801;-20.872426
+B316;Polo Joalheiro;São José do Rio Preto;Polo Joalheiro, São José do Rio Preto, SP, Brasil;-49.4186121;-20.8262399
+B317;Quinta do Golfe Jardins;São José do Rio Preto;Quinta do Golfe Jardins, São José do Rio Preto, SP, Brasil;-49.4261384;-20.8581551
+B318;Quinta do Golfe Reserva;São José do Rio Preto;Quinta do Golfe Reserva, São José do Rio Preto, SP, Brasil;-49.4291103;-20.853864
+B319;Quinta do Lago - Lake Victoria;São José do Rio Preto;Quinta do Lago - Lake Victoria, São José do Rio Preto, SP, Brasil;-49.3206096;-20.8218727
+B320;Recanto Duas Vendas;São José do Rio Preto;Recanto Duas Vendas, São José do Rio Preto, SP, Brasil;-49.3808418;-20.7609336
+B321;Recanto Feliz;São José do Rio Preto;Recanto Feliz, São José do Rio Preto, SP, Brasil;-49.313888;-20.7925776
+B322;Recanto São Lucas;São José do Rio Preto;Recanto São Lucas, São José do Rio Preto, SP, Brasil;-49.3075419;-20.7648118
+B323;Recanto das Aves;São José do Rio Preto;Recanto das Aves, São José do Rio Preto, SP, Brasil;-49.3819195;-20.7288581
+B324;Recanto dos Eduardos;São José do Rio Preto;Recanto dos Eduardos, São José do Rio Preto, SP, Brasil;-49.3395996;-20.7956769
+B325;Residencial Alta Vista;São José do Rio Preto;Residencial Alta Vista, São José do Rio Preto, SP, Brasil;-49.3411434;-20.7558407
+B326;Residencial Alto das Andorinhas;São José do Rio Preto;Residencial Alto das Andorinhas, São José do Rio Preto, SP, Brasil;-49.3919134;-20.7733036
+B327;Residencial Amazonas;São José do Rio Preto;Residencial Amazonas, São José do Rio Preto, SP, Brasil;-49.3545705;-20.7629726
+B328;Residencial Ana Célia;São José do Rio Preto;Residencial Ana Célia, São José do Rio Preto, SP, Brasil;-49.4003838;-20.7781938
+B329;Residencial Ana Célia 2;São José do Rio Preto;Residencial Ana Célia 2, São José do Rio Preto, SP, Brasil;-49.3976909;-20.7775769
+B330;Residencial Antoniassi;São José do Rio Preto;Residencial Antoniassi, São José do Rio Preto, SP, Brasil;-49.3098834;-20.8649023
+B331;Residencial Ary Attab;São José do Rio Preto;Residencial Ary Attab, São José do Rio Preto, SP, Brasil;-49.4272971;-20.8008622
+B332;Residencial Ary Attab III;São José do Rio Preto;Residencial Ary Attab III, São José do Rio Preto, SP, Brasil;-49.4374895;-20.8016044
+B333;Residencial Bom Sucesso;São José do Rio Preto;Residencial Bom Sucesso, São José do Rio Preto, SP, Brasil;-49.4141995;-20.7646786
+B334;Residencial Caetano;São José do Rio Preto;Residencial Caetano, São José do Rio Preto, SP, Brasil;-49.3852977;-20.7566562
+B335;Residencial Caetano II;São José do Rio Preto;Residencial Caetano II, São José do Rio Preto, SP, Brasil;-49.3912312;-20.754111
+B336;Residencial Califórnia;São José do Rio Preto;Residencial Califórnia, São José do Rio Preto, SP, Brasil;-49.414281;-20.7677689
+B337;Residencial Cidade Alta;São José do Rio Preto;Residencial Cidade Alta, São José do Rio Preto, SP, Brasil;-49.4067729;-20.7405727
+B338;Residencial Cidade Jardim;São José do Rio Preto;Residencial Cidade Jardim, São José do Rio Preto, SP, Brasil;-49.3665383;-20.846635
+B339;Residencial Colina Azul;São José do Rio Preto;Residencial Colina Azul, São José do Rio Preto, SP, Brasil;-49.3812919;-20.8730275
+B340;Residencial Colorado;São José do Rio Preto;Residencial Colorado, São José do Rio Preto, SP, Brasil;-49.4147534;-20.7707794
+B341;Residencial Cortina D'Ampezzo;São José do Rio Preto;Residencial Cortina D'Ampezzo, São José do Rio Preto, SP, Brasil;-49.3419459;-20.8915079
+B342;Residencial Doutor João Tajara;São José do Rio Preto;Residencial Doutor João Tajara, São José do Rio Preto, SP, Brasil;-49.3466163;-20.7861432
+B343;Residencial Eco Village;São José do Rio Preto;Residencial Eco Village, São José do Rio Preto, SP, Brasil;-49.410430653551295;-20.86032942523241
+B344;Residencial Etemp;São José do Rio Preto;Residencial Etemp, São José do Rio Preto, SP, Brasil;-49.4205801;-20.7849553
+B345;Residencial Figueira 2;São José do Rio Preto;Residencial Figueira 2, São José do Rio Preto, SP, Brasil;-49.3345463;-20.8022864
+B346;Residencial Gabriela;São José do Rio Preto;Residencial Gabriela, São José do Rio Preto, SP, Brasil;-49.4289569;-20.7904648
+B347;Residencial Garcia 1;São José do Rio Preto;Residencial Garcia 1, São José do Rio Preto, SP, Brasil;-49.3659121;-20.7682377
+B348;Residencial Garcia II;São José do Rio Preto;Residencial Garcia II, São José do Rio Preto, SP, Brasil;-49.3642354;-20.7681401
+B349;Residencial Gumercindo de Seta;São José do Rio Preto;Residencial Gumercindo de Seta, São José do Rio Preto, SP, Brasil;-49.3475155;-20.8902221
+B350;Residencial Jatobás;São José do Rio Preto;Residencial Jatobás, São José do Rio Preto, SP, Brasil;-49.4523597;-20.7825572
+B351;Residencial Jéssica;São José do Rio Preto;Residencial Jéssica, São José do Rio Preto, SP, Brasil;-49.3846874;-20.7596726
+B352;Residencial Luz da Esperança;São José do Rio Preto;Residencial Luz da Esperança, São José do Rio Preto, SP, Brasil;-49.3171384;-20.7721999
+B353;Residencial Luzia Poloto;São José do Rio Preto;Residencial Luzia Poloto, São José do Rio Preto, SP, Brasil;-49.3922244;-20.7554058
+B354;Residencial Macedo Teles I;São José do Rio Preto;Residencial Macedo Teles I, São José do Rio Preto, SP, Brasil;-49.4183366;-20.8012694
+B355;Residencial Macedo Teles II;São José do Rio Preto;Residencial Macedo Teles II, São José do Rio Preto, SP, Brasil;-49.4139934;-20.8005112
+B356;Residencial Machado;São José do Rio Preto;Residencial Machado, São José do Rio Preto, SP, Brasil;-49.3563199;-20.7639523
+B357;Residencial Mais Viver;São José do Rio Preto;Residencial Mais Viver, São José do Rio Preto, SP, Brasil;-49.3848476;-20.7265535
+B358;Residencial Maria Clara;São José do Rio Preto;Residencial Maria Clara, São José do Rio Preto, SP, Brasil;-49.418875;-20.7562343
+B359;Residencial Maria Clara 2;São José do Rio Preto;Residencial Maria Clara 2, São José do Rio Preto, SP, Brasil;-49.4200605;-20.7520456
+B360;Residencial Maria Drummond;São José do Rio Preto;Residencial Maria Drummond, São José do Rio Preto, SP, Brasil;-49.4370244;-20.783985
+B361;Residencial Maria Júlia;São José do Rio Preto;Residencial Maria Júlia, São José do Rio Preto, SP, Brasil;-49.3203628;-20.8010027
+B362;Residencial Marialda Mello;São José do Rio Preto;Residencial Marialda Mello, São José do Rio Preto, SP, Brasil;-49.441427;-20.7835703
+B363;Residencial Maza;São José do Rio Preto;Residencial Maza, São José do Rio Preto, SP, Brasil;-49.3056362;-20.8667783
+B364;Residencial Mirante;São José do Rio Preto;Residencial Mirante, São José do Rio Preto, SP, Brasil;-49.4409396;-20.7850565
+B365;Residencial Monte Verde;São José do Rio Preto;Residencial Monte Verde, São José do Rio Preto, SP, Brasil;-49.4320301;-20.78778
+B366;Residencial Monterey;São José do Rio Preto;Residencial Monterey, São José do Rio Preto, SP, Brasil;-49.3500763;-20.7611501
+B367;Residencial Morada do Sol;São José do Rio Preto;Residencial Morada do Sol, São José do Rio Preto, SP, Brasil;-49.3965695;-20.7465714
+B368;Residencial Mário de Mattos;São José do Rio Preto;Residencial Mário de Mattos, São José do Rio Preto, SP, Brasil;-49.4277365;-20.7844432
+B369;Residencial Nato Vetorazzo;São José do Rio Preto;Residencial Nato Vetorazzo, São José do Rio Preto, SP, Brasil;-49.4417625;-20.7902641
+B370;Residencial Padilha;São José do Rio Preto;Residencial Padilha, São José do Rio Preto, SP, Brasil;-49.383106;-20.7651244
+B371;Residencial Palestra;São José do Rio Preto;Residencial Palestra, São José do Rio Preto, SP, Brasil;-49.4312128;-20.8023695
+B372;Residencial Quinta da Mata;São José do Rio Preto;Residencial Quinta da Mata, São José do Rio Preto, SP, Brasil;-49.3555377;-20.830241
+B373;Residencial Santa Ana;São José do Rio Preto;Residencial Santa Ana, São José do Rio Preto, SP, Brasil;-49.3657852;-20.7559503
+B374;Residencial Santa Angela;São José do Rio Preto;Residencial Santa Angela, São José do Rio Preto, SP, Brasil;-49.4037407;-20.795378
+B375;Residencial Santa Cruz;São José do Rio Preto;Residencial Santa Cruz, São José do Rio Preto, SP, Brasil;-49.445591;-20.7877748
+B376;Residencial Santa Inês;São José do Rio Preto;Residencial Santa Inês, São José do Rio Preto, SP, Brasil;-49.3901351;-20.7787731
+B377;Residencial Santa Regina;São José do Rio Preto;Residencial Santa Regina, São José do Rio Preto, SP, Brasil;-49.3297334;-20.8583565
+B378;Residencial Setparque Avenida 2;São José do Rio Preto;Residencial Setparque Avenida 2, São José do Rio Preto, SP, Brasil;-49.3926323;-20.7580702
+B379;Residencial Setsul;São José do Rio Preto;Residencial Setsul, São José do Rio Preto, SP, Brasil;-49.3600702;-20.8543603
+B380;Residencial Setsul 2;São José do Rio Preto;Residencial Setsul 2, São José do Rio Preto, SP, Brasil;-49.3552905;-20.8594133
+B381;Residencial Solidariedade;São José do Rio Preto;Residencial Solidariedade, São José do Rio Preto, SP, Brasil;-49.36697710846366;-20.749195716172952
+B382;Residencial São Thomaz;São José do Rio Preto;Residencial São Thomaz, São José do Rio Preto, SP, Brasil;-49.433949;-20.7642199
+B383;Residencial São Thomaz 2;São José do Rio Preto;Residencial São Thomaz 2, São José do Rio Preto, SP, Brasil;-49.4343352;-20.7659053
+B384;Residencial Tabarana;São José do Rio Preto;Residencial Tabarana, São José do Rio Preto, SP, Brasil;-49.380734;-20.7249196
+B385;Residencial Três Marias;São José do Rio Preto;Residencial Três Marias, São José do Rio Preto, SP, Brasil;-49.3509763;-20.8089155
+B386;Residencial Vale Verde;São José do Rio Preto;Residencial Vale Verde, São José do Rio Preto, SP, Brasil;-49.3541071;-20.7776529
+B387;Residencial Vila Flora;São José do Rio Preto;Residencial Vila Flora, São José do Rio Preto, SP, Brasil;-49.3490037;-20.7884083
+B388;Residencial Vila Lobos;São José do Rio Preto;Residencial Vila Lobos, São José do Rio Preto, SP, Brasil;-49.4055498;-20.7435727
+B389;Residencial Vila Madalena;São José do Rio Preto;Residencial Vila Madalena, São José do Rio Preto, SP, Brasil;-49.3594372;-20.7666777
+B390;Residencial Vila Verde;São José do Rio Preto;Residencial Vila Verde, São José do Rio Preto, SP, Brasil;-49.3338704;-20.8541698
+B391;Residencial Vista Alegre;São José do Rio Preto;Residencial Vista Alegre, São José do Rio Preto, SP, Brasil;-49.3912;-20.7693677
+B392;Residencial Vista Norte;São José do Rio Preto;Residencial Vista Norte, São José do Rio Preto, SP, Brasil;-49.4215089;-20.7485893
+B393;Residencial da Amizade;São José do Rio Preto;Residencial da Amizade, São José do Rio Preto, SP, Brasil;-49.3249052;-20.7552956
+B394;Residencial da Lealdade;São José do Rio Preto;Residencial da Lealdade, São José do Rio Preto, SP, Brasil;-49.3283637;-20.7576088
+B395;Residencial das Américas;São José do Rio Preto;Residencial das Américas, São José do Rio Preto, SP, Brasil;-49.4270651;-20.7793436
+B396;Residencial e Empresarial Ascolo Martin;São José do Rio Preto;Residencial e Empresarial Ascolo Martin, São José do Rio Preto, SP, Brasil;-49.3272936;-20.80009
+B397;Retalhamento Caparroz;São José do Rio Preto;Retalhamento Caparroz, São José do Rio Preto, SP, Brasil;-49.3636184;-20.8123865
+B398;Retalhamento Guilherme Petrucci;São José do Rio Preto;Retalhamento Guilherme Petrucci, São José do Rio Preto, SP, Brasil;-49.3540191;-20.8146714
+B399;Retalhamento Jesus Ferreira;São José do Rio Preto;Retalhamento Jesus Ferreira, São José do Rio Preto, SP, Brasil;-49.3530879;-20.814345
+B400;Retalhamento Stefanini;São José do Rio Preto;Retalhamento Stefanini, São José do Rio Preto, SP, Brasil;-49.4067299;-20.8278794
+B401;Retalhamento Vânia Marta;São José do Rio Preto;Retalhamento Vânia Marta, São José do Rio Preto, SP, Brasil;-49.3715187;-20.7880312
+B402;Roseiral;São José do Rio Preto;Roseiral, São José do Rio Preto, SP, Brasil;-49.3608337;-20.8172243
+B403;Santa Filomena;São José do Rio Preto;Santa Filomena, São José do Rio Preto, SP, Brasil;-49.3503083;-20.7840208
+B404;Santos Dumont;São José do Rio Preto;Santos Dumont, São José do Rio Preto, SP, Brasil;-49.3989722;-20.8176585
+B405;Setparque Horizonte;São José do Rio Preto;Setparque Horizonte, São José do Rio Preto, SP, Brasil;-49.408165;-20.7546392
+B406;Setvalley;São José do Rio Preto;Setvalley, São José do Rio Preto, SP, Brasil;-49.3310623;-20.7479486
+B407;Setvalley 2;São José do Rio Preto;Setvalley 2, São José do Rio Preto, SP, Brasil;-49.3319392;-20.7440643
+B408;Setvalley 3;São José do Rio Preto;Setvalley 3, São José do Rio Preto, SP, Brasil;-49.3282056;-20.7439791
+B409;Solo Sagrado;São José do Rio Preto;Solo Sagrado, São José do Rio Preto, SP, Brasil;-49.4079304;-20.7809435
+B410;Solo Sagrado I;São José do Rio Preto;Solo Sagrado I, São José do Rio Preto, SP, Brasil;-49.4146338;-20.7765757
+B411;Spazio Rio Pérola;São José do Rio Preto;Spazio Rio Pérola, São José do Rio Preto, SP, Brasil;-49.3519334;-20.8044828
+B412;São Deocleciano;São José do Rio Preto;São Deocleciano, São José do Rio Preto, SP, Brasil;-49.3438623;-20.7905867
+B413;São Francisco;São José do Rio Preto;São Francisco, São José do Rio Preto, SP, Brasil;-49.3828593;-20.8476014
+B414;São João I (Olímpia);São José do Rio Preto;São João I (Olímpia), São José do Rio Preto, SP, Brasil;-49.3076545;-20.7883449
+B415;São Miguel Arcanjo I;São José do Rio Preto;São Miguel Arcanjo I, São José do Rio Preto, SP, Brasil;-49.3543114;-20.9128494
+B416;São Miguel Arcanjo II;São José do Rio Preto;São Miguel Arcanjo II, São José do Rio Preto, SP, Brasil;-49.3917226;-20.9035355
+B417;São Pedro - Mineiro;São José do Rio Preto;São Pedro - Mineiro, São José do Rio Preto, SP, Brasil;-49.4018591;-20.7175841
+B418;São Raphael;São José do Rio Preto;São Raphael, São José do Rio Preto, SP, Brasil;-49.3054551;-20.7902607
+B419;Terras de São Lucas;São José do Rio Preto;Terras de São Lucas, São José do Rio Preto, SP, Brasil;-49.3160927;-20.732335
+B420;Urban Fortes 1;São José do Rio Preto;Urban Fortes 1, São José do Rio Preto, SP, Brasil;-49.3367672;-20.7721851
+B421;Vila Aeroporto;São José do Rio Preto;Vila Aeroporto, São José do Rio Preto, SP, Brasil;-49.3978518;-20.8096378
+B422;Vila Anchieta;São José do Rio Preto;Vila Anchieta, São José do Rio Preto, SP, Brasil;-49.3736894;-20.7952097
+B423;Vila Angélica;São José do Rio Preto;Vila Angélica, São José do Rio Preto, SP, Brasil;-49.3755761;-20.8033822
+B424;Vila Aurora;São José do Rio Preto;Vila Aurora, São José do Rio Preto, SP, Brasil;-49.3784353;-20.8220486
+B425;Vila Azul;São José do Rio Preto;Vila Azul, São José do Rio Preto, SP, Brasil;-49.3623224;-20.9005223
+B426;Vila Bancária;São José do Rio Preto;Vila Bancária, São José do Rio Preto, SP, Brasil;-49.3938876;-20.817711
+B427;Vila Boa Esperança;São José do Rio Preto;Vila Boa Esperança, São José do Rio Preto, SP, Brasil;-49.382574;-20.7895786
+B428;Vila Bom Jesus;São José do Rio Preto;Vila Bom Jesus, São José do Rio Preto, SP, Brasil;-49.3788642;-20.8167229
+B429;Vila Clementina;São José do Rio Preto;Vila Clementina, São José do Rio Preto, SP, Brasil;-49.3754267;-20.7738621
+B430;Vila Cristina;São José do Rio Preto;Vila Cristina, São José do Rio Preto, SP, Brasil;-49.3658688;-20.8126114
+B431;Vila Diniz;São José do Rio Preto;Vila Diniz, São José do Rio Preto, SP, Brasil;-49.3682012;-20.8202125
+B432;Vila Dório;São José do Rio Preto;Vila Dório, São José do Rio Preto, SP, Brasil;-49.3642547;-20.8135181
+B433;Vila Elmaz;São José do Rio Preto;Vila Elmaz, São José do Rio Preto, SP, Brasil;-49.3756275;-20.7696217
+B434;Vila Elvira;São José do Rio Preto;Vila Elvira, São José do Rio Preto, SP, Brasil;-49.3624622;-20.8112259
+B435;Vila Ercília;São José do Rio Preto;Vila Ercília, São José do Rio Preto, SP, Brasil;-49.3705773;-20.814187
+B436;Vila Esplanada;São José do Rio Preto;Vila Esplanada, São José do Rio Preto, SP, Brasil;-49.386034;-20.794022
+B437;Vila Falavina;São José do Rio Preto;Vila Falavina, São José do Rio Preto, SP, Brasil;-49.3842477;-20.7901202
+B438;Vila Fiorezzi;São José do Rio Preto;Vila Fiorezzi, São José do Rio Preto, SP, Brasil;-49.3821019;-20.8197993
+B439;Vila Goyos;São José do Rio Preto;Vila Goyos, São José do Rio Preto, SP, Brasil;-49.3643508;-20.8051391
+B440;Vila Hipódromo;São José do Rio Preto;Vila Hipódromo, São José do Rio Preto, SP, Brasil;-49.3531733;-20.8186319
+B441;Vila Ideal;São José do Rio Preto;Vila Ideal, São José do Rio Preto, SP, Brasil;-49.3620905;-20.8030088
+B442;Vila Imperial;São José do Rio Preto;Vila Imperial, São José do Rio Preto, SP, Brasil;-49.3912053;-20.8160011
+B443;Vila Ipiranga;São José do Rio Preto;Vila Ipiranga, São José do Rio Preto, SP, Brasil;-49.3692273;-20.7928259
+B444;Vila Itália;São José do Rio Preto;Vila Itália, São José do Rio Preto, SP, Brasil;-49.4070303;-20.8080006
+B445;Vila Lisboa;São José do Rio Preto;Vila Lisboa, São José do Rio Preto, SP, Brasil;-49.3724939;-20.797672
+B446;Vila Maceno;São José do Rio Preto;Vila Maceno, São José do Rio Preto, SP, Brasil;-49.3737488;-20.8051361
+B447;Vila Mafalda II;São José do Rio Preto;Vila Mafalda II, São José do Rio Preto, SP, Brasil;-49.4197446;-20.77339
+B448;Vila Maria;São José do Rio Preto;Vila Maria, São José do Rio Preto, SP, Brasil;-49.3933082;-20.8084293
+B449;Vila Mayor;São José do Rio Preto;Vila Mayor, São José do Rio Preto, SP, Brasil;-49.3881342;-20.7825372
+B450;Vila Moreira;São José do Rio Preto;Vila Moreira, São José do Rio Preto, SP, Brasil;-49.3832445;-20.7914693
+B451;Vila Mossoró;São José do Rio Preto;Vila Mossoró, São José do Rio Preto, SP, Brasil;-49.3703639;-20.7899797
+B452;Vila Nossa Senhora da Paz;São José do Rio Preto;Vila Nossa Senhora da Paz, São José do Rio Preto, SP, Brasil;-49.3929783;-20.8125938
+B453;Vila Nossa Senhora da Penha;São José do Rio Preto;Vila Nossa Senhora da Penha, São José do Rio Preto, SP, Brasil;-49.3943422;-20.7893599
+B454;Vila Nossa Senhora de Fátima;São José do Rio Preto;Vila Nossa Senhora de Fátima, São José do Rio Preto, SP, Brasil;-49.4002942;-20.8230891
+B455;Vila Nossa Senhora do Carmo;São José do Rio Preto;Vila Nossa Senhora do Carmo, São José do Rio Preto, SP, Brasil;-49.3698603;-20.7918856
+B456;Vila Novaes;São José do Rio Preto;Vila Novaes, São José do Rio Preto, SP, Brasil;-49.374476;-20.7876625
+B457;Vila Pompéia;São José do Rio Preto;Vila Pompéia, São José do Rio Preto, SP, Brasil;-49.3286562;-20.8035802
+B458;Vila Redentora;São José do Rio Preto;Vila Redentora, São José do Rio Preto, SP, Brasil;-49.3859643;-20.8200726
+B459;Vila Santa Cruz;São José do Rio Preto;Vila Santa Cruz, São José do Rio Preto, SP, Brasil;-49.3741208;-20.818403
+B460;Vila Santa Cândida;São José do Rio Preto;Vila Santa Cândida, São José do Rio Preto, SP, Brasil;-49.3987076;-20.8293423
+B461;Vila Santa Isabel;São José do Rio Preto;Vila Santa Isabel, São José do Rio Preto, SP, Brasil;-49.3691128;-20.7961178
+B462;Vila Santa Tereza;São José do Rio Preto;Vila Santa Tereza, São José do Rio Preto, SP, Brasil;-49.3607937;-20.8129813
+B463;Vila Santo Antônio;São José do Rio Preto;Vila Santo Antônio, São José do Rio Preto, SP, Brasil;-49.3805649;-20.822391
+B464;Vila Sinibaldi;São José do Rio Preto;Vila Sinibaldi, São José do Rio Preto, SP, Brasil;-49.3805447;-20.8251918
+B465;Vila São Joaquim;São José do Rio Preto;Vila São Joaquim, São José do Rio Preto, SP, Brasil;-49.376962;-20.8265347
+B466;Vila São José;São José do Rio Preto;Vila São José, São José do Rio Preto, SP, Brasil;-49.3939845;-20.8265541
+B467;Vila São José Operário;São José do Rio Preto;Vila São José Operário, São José do Rio Preto, SP, Brasil;-49.4288153;-20.812125
+B468;Vila São Judas Tadeu;São José do Rio Preto;Vila São Judas Tadeu, São José do Rio Preto, SP, Brasil;-49.3527934;-20.8222909
+B469;Vila São Luiz Gonzaga;São José do Rio Preto;Vila São Luiz Gonzaga, São José do Rio Preto, SP, Brasil;-49.3716172;-20.7890976
+B470;Vila São Manoel;São José do Rio Preto;Vila São Manoel, São José do Rio Preto, SP, Brasil;-49.401891;-20.8309509
+B471;Vila São Pedro;São José do Rio Preto;Vila São Pedro, São José do Rio Preto, SP, Brasil;-49.3951326;-20.8250959
+B472;Vila Toninho;São José do Rio Preto;Vila Toninho, São José do Rio Preto, SP, Brasil;-49.3386004;-20.8471564
+B473;Vila União;São José do Rio Preto;Vila União, São José do Rio Preto, SP, Brasil;-49.4020038;-20.7815253
+B474;Vila Zilda;São José do Rio Preto;Vila Zilda, São José do Rio Preto, SP, Brasil;-49.3887414;-20.7953224
+B475;Villa Cassini;São José do Rio Preto;Villa Cassini, São José do Rio Preto, SP, Brasil;-49.3308449;-20.7952757
+B476;Village Damha 3;São José do Rio Preto;Village Damha 3, São José do Rio Preto, SP, Brasil;-49.3354851;-20.7771205
+B477;Village Maria Stella;São José do Rio Preto;Village Maria Stella, São José do Rio Preto, SP, Brasil;-49.3461341;-20.7825078
+B478;Village Rio Sena;São José do Rio Preto;Village Rio Sena, São José do Rio Preto, SP, Brasil;-49.3491349;-20.8086312
+B479;Village Rio Volga;São José do Rio Preto;Village Rio Volga, São José do Rio Preto, SP, Brasil;-49.3537268;-20.8082067
+B480;Villaggio São Judas;São José do Rio Preto;Villaggio São Judas, São José do Rio Preto, SP, Brasil;-49.3596336;-20.8192448
+B481;Villagio Vitoria;São José do Rio Preto;Villagio Vitoria, São José do Rio Preto, SP, Brasil;-49.3756675;-20.7790226
+B482;Vista Alegre;São José do Rio Preto;Vista Alegre, São José do Rio Preto, SP, Brasil;-49.3450289;-20.8052802
+B483;Vista Alegre I;São José do Rio Preto;Vista Alegre I, São José do Rio Preto, SP, Brasil;-49.3868822;-20.8742527
+B484;Vista Alegre II;São José do Rio Preto;Vista Alegre II, São José do Rio Preto, SP, Brasil;-49.3909148;-20.8772929
+B485;Vista Alegre III;São José do Rio Preto;Vista Alegre III, São José do Rio Preto, SP, Brasil;-49.3949994;-20.8772929
+B486;Vivendas;São José do Rio Preto;Vivendas, São José do Rio Preto, SP, Brasil;-49.3973208;-20.846476

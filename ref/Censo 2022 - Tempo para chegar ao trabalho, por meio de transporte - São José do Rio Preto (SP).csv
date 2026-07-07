@@ -1,0 +1,22 @@
+﻿Meio de transporte;Tempo;Porcentagem;Município;Sigla UF;Código do Município
+A pé (%);Até 5 min;31,28;São José do Rio Preto ;SP;3549805
+A pé (%);De 6 a 15 min;33,87;São José do Rio Preto ;SP;3549805
+A pé (%);De 16 a 30 min;26;São José do Rio Preto ;SP;3549805
+A pé (%);De 31 min a 1h;7,24;São José do Rio Preto ;SP;3549805
+A pé (%);De 1h a 2h;1,61;São José do Rio Preto ;SP;3549805
+A pé (%);De 2h a 4h;0;São José do Rio Preto ;SP;3549805
+A pé (%);Mais de 4h;0;São José do Rio Preto ;SP;3549805
+Automóvel (%);Até 5 min;6,6;São José do Rio Preto ;SP;3549805
+Automóvel (%);De 6 a 15 min;34,76;São José do Rio Preto ;SP;3549805
+Automóvel (%);De 16 a 30 min;44,26;São José do Rio Preto ;SP;3549805
+Automóvel (%);De 31 min a 1h;11,78;São José do Rio Preto ;SP;3549805
+Automóvel (%);De 1h a 2h;2,58;São José do Rio Preto ;SP;3549805
+Automóvel (%);De 2h a 4h;0,01;São José do Rio Preto ;SP;3549805
+Automóvel (%);Mais de 4h;0,01;São José do Rio Preto ;SP;3549805
+Ônibus (%);Até 5 min;0,67;São José do Rio Preto ;SP;3549805
+Ônibus (%);De 6 a 15 min;3,74;São José do Rio Preto ;SP;3549805
+Ônibus (%);De 16 a 30 min;25,06;São José do Rio Preto ;SP;3549805
+Ônibus (%);De 31 min a 1h;45,11;São José do Rio Preto ;SP;3549805
+Ônibus (%);De 1h a 2h;25,13;São José do Rio Preto ;SP;3549805
+Ônibus (%);De 2h a 4h;0,29;São José do Rio Preto ;SP;3549805
+Ônibus (%);Mais de 4h;0;São José do Rio Preto ;SP;3549805
